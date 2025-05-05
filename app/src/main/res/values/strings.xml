@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">name</string>
+    <string name="passwd">passwd</string>
+    <string name="mail">mail</string>
+    <string name="phone">phone</string>
+</resources>
